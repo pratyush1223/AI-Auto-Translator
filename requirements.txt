@@ -1,0 +1,5 @@
+Flask==2.0.1
+googletrans==4.0.0-rc1
+gtts==2.2.3
+langdetect==1.0.9
+requests==2.26.0
