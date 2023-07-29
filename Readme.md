@@ -15,7 +15,7 @@ This is a web app built with Flask that allows users to input speech, automatica
 
 ## Requirements
 
-- Python 3.x
+- Python 3.0+
 - Flask
 - googletrans==4.0.0-rc1
 - gtts
