@@ -44,11 +44,9 @@ This is a web app built with Flask that allows users to input speech, automatica
    ```bash
    python app.py
 
-   1. Access the web app in your browser by visiting http://127.0.0.1:5000/.
-
-   2. Use the "Speak something..." textarea to input speech. You can either type or click the microphone icon to start recording your speech.
-
-   3. After speaking, click the "Translate" button to get the translated text and play the translated audio using the speaker icon.
+1. Access the web app in your browser by visiting http://127.0.0.1:5000/.
+2. Use the "Speak something..." textarea to input speech. You can either type or click the microphone icon to start recording your speech.
+3. After speaking, click the "Translate" button to get the translated text and play the translated audio using the speaker icon.
 
 ## Known Issues / Limitations
 
